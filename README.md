@@ -10,12 +10,12 @@ Foi utilizado também os ícones da <b>Font Awesome</b> e o carrossel da <b>OWL<
 </ul>
 
 ## Imagens do projeto
-<img src="/img/projeto.png">
-<img src="/img/projeto2.png">
+<img src="/tree/img/projeto.png">
+<img src="/tree/img/projeto2.png">
 ## Funcionalidade adicional
 <p>Um dos desafios propostos foi adicionar alguma funcionalidade aos botões da página. Usei JavaScript para adicionar um evento que, ao clicar no botão, um "container" que contém o trailer do filme principal fica visível na tela, mudando o estilo de "display = none" para "display = flex", deixando o vídeo no centro. </p>
 
-<img src="/img/botao.gif">
+<img src="/tree/img/botao.gif">
 
 <br>
 :link: Acesse o projeto clicando <a href="https://moacirdavidag.github.io/cloneNetflix/">aqui</a>.<br>
